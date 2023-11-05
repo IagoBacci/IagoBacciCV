@@ -86,7 +86,7 @@ h6 {
 #header .profile img {
   margin: 15px auto;
   display: block;
-  width: 120px;
+  width: 140px;
   border: 8px solid #2c2f3f;
 }
 
@@ -350,6 +350,14 @@ section {
   font-weight: 700;
   font-size: 26px;
   color: #173b6c;
+}
+
+.img-fluid {
+  border-radius: 15%;
+  border-style: solid;
+  border-width: 7px;
+  border-color: #173b6c;
+  box-shadow: rgb(96, 96, 96) 5px 5px 10px;
 }
 
 .about .content ul {
